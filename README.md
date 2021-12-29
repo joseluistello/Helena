@@ -2,7 +2,7 @@
 
 Por [José Luis Tello](https://joseluistello.live/)
 
-Helena es una iniciativa que tiene como objetivo crear un mar de conocimiento para ayudar a las personas a aprender mejor. Si quieres conocer más acerca de este proyecto visita la [pagina oficial](https://www.notion.so/joseluistello/Helena-1e936324fe3b4243af7c1a57cb3889fc)
+Helena es una iniciativa que tiene como objetivo crear un mar de conocimiento para ayudar a las personas a aprender mejor. Si quieres conocer más acerca de este proyecto visita la [pagina oficial](https://www.notion.so/joseluistello/Helena-1e936324fe3b4243af7c1a57cb3889fc).
 
 - 🌻 [Libreria](https://joseluistello.notion.site/Library-adb9a5a88dd244b6969c072e6e02293c)
 - 💡 [About](https://joseluistello.notion.site/About-f0b1b8173eaa4fd193bfa17a06c9e645)
