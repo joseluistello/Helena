@@ -11,4 +11,4 @@ Helena es una iniciativa que tiene como objetivo crear un mar de conocimiento pa
 
 ### ¿Como contribuir?
 
-Si quieres proponer mejores, reportar algun fallo, colaborar o pedir algun libro puedes crear issues dentro del repositorio de Github.
+Para proponer mejoras, reportar algun fallo, colaborar o pedir algun libro puedes crear issues dentro del repositorio de Github.
