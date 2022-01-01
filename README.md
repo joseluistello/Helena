@@ -9,6 +9,12 @@ Helena es una iniciativa que tiene como objetivo crear un mar de conocimiento pa
 - 🗺️ [Roadmap](https://joseluistello.notion.site/a48a12f8c1b34bb9a0f030897f65ae40?v=afce925429d0494989ef07e8677d6501)
 
 
+### Resources
+
+- [Data Engineering](https://drive.google.com/drive/u/2/folders/1Wl8OunYVbQU9-1PvJVSJJ9yEG6y_UNIa)
+- [Data Science](https://drive.google.com/drive/u/2/folders/1YoUzCKRDy3klOVmaP_gl3w3gpFgTl7TQ)
+
+
 ### ¿Como contribuir?
 
 Para proponer mejoras, reportar algun fallo, colaborar o pedir algun libro puedes crear issues dentro del repositorio de Github.
